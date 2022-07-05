@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sls0n
-- 👀 I’m interested in Machine Learning, AI.
-- 🌱 I’m currently studying B.Sc.Csit.
-- 👨‍💻 I'm currently learning Python.
+- 🌱 I’m currently enrolled in B.Sc.CSIT.
+- 👨‍💻 I'm currently learning Python, Javascript.
 - 📫 Reach me via Discord --> Slson#8898
 
 <!---
