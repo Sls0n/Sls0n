@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sls0n
-- 🌱 I’m currently enrolled in B.Sc.CSIT.
+- 🌱 I’m currently enrolled in B.Sc.CSIT course.
 - 👨‍💻 I'm currently learning Python, Javascript.
 - 📫 Reach me via Discord --> Slson#8898
 
