@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Silson</h1>
-<h3 align="center">A self-taught programmer</h3>
+<h1>Hi 👋, I'm Silson</h1>
+<h3>A self-taught programmer</h3>
 
 - 🎓 I’m currently studying **Bachelors of Science in Computer Science & Information Technology**
 
