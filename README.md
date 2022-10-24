@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Silson</h1>
-<h3>A self-taught programmer</h3>
 
 - 🎓 I’m currently studying **Bachelors of Science in Computer Science & Information Technology**
 
