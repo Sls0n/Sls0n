@@ -7,3 +7,6 @@ Aspiring Full-stack developer, former youtuber with 7000+ subscribers & 1M+ view
 - 🎓 Currently studying Bachelors of Science in Computer Science & Information Technology.
 - 💜 [Portfolio Website](https://slson.netlify.app).
 - 📫 Reach me via silson0077@gmail.com
+
+## ⚡ Technologies
+![skills](https://skillicons.dev/icons?i=c,html,css,js,py,nodejs,sass,tailwind,git&theme=dark)
