@@ -10,3 +10,5 @@ Aspiring Full-stack developer, former youtuber with 7000+ subscribers & 1M+ view
 
 ## ⚡ Technologies
 ![skills](https://skillicons.dev/icons?i=c,html,css,js,py,nodejs,sass,tailwind,git&theme=dark)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sls0n&label=Profile%20views&color=0e75b6&style=flat" alt="sls0n" /> </p>
