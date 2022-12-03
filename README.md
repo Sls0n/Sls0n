@@ -10,7 +10,12 @@ Aspiring Web developer, former youtuber with 7000+ subscribers & 1M+ views, ocas
 
 ## ⚡ Skills
 - Here are my skills to showcase my expertise
-<h4> Programming Languages </h4>
+<h3> Programming Languages I'm proficient at </h3>
+![skills](https://skillicons.dev/icons?i=js,py,html,css&theme=dark)
+
+<h3> Programming Languages I'm familiar with </h3>
+![skills](https://skillicons.dev/icons?i=c&theme=dark)
+
 
 ![skills](https://skillicons.dev/icons?i=c,html,css,js,py,react,sass,tailwind,git&theme=dark)
 
