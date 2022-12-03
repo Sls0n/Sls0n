@@ -9,7 +9,6 @@ Aspiring Web developer, former youtuber with 7000+ subscribers & 1M+ views, ocas
 - 📫 Reach me via silson0077@gmail.com
 
 ## ⚡ Skills
-- Here are my skills to showcase my expertise
 ![skills](https://skillicons.dev/icons?i=c,html,css,js,py,react,sass,tailwind,git&theme=dark)
 
 ## 📈 Stats
