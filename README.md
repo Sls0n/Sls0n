@@ -2,7 +2,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/silson.sapkota) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/xsls0n_007) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/xsls0n)
 
-Aspiring Web developer, former youtuber with 7000+ subscribers & 1M+ views, ocassional music producer.
+Aspiring web developer, former youtuber with 7000+ subscribers & 1M+ views, ocassional music producer.
 
 - 🎓 Currently studying Bachelors of Science in Computer Science & Information Technology.
 - 💜 [Portfolio Website](https://slson.netlify.app).
@@ -10,7 +10,7 @@ Aspiring Web developer, former youtuber with 7000+ subscribers & 1M+ views, ocas
 
 ## 🌙 Recent Projects
 - 🗺 [Mapsi](https://mapsi.netlify.app)
--  [Movsi](https://movsi.netlify.app)
+- 🎬 [Movsi](https://movsi.netlify.app)
 
 ## ⚡ Languages I am proficient at 
 ![skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,git&theme=dark)
