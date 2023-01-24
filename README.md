@@ -19,7 +19,7 @@ Aspiring web developer, former youtuber with 7000+ subscribers & 1M+ views, ocas
 ![skills](https://skillicons.dev/icons?i=c,cpp,py&theme=dark)
 
 ## 📖 Currently learning
-![skills](https://skillicons.dev/icons?i=react&theme=dark)
+![skills](https://skillicons.dev/icons?i=react,redux&theme=dark)
 
 ## 📈 Stats
 
