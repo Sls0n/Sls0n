@@ -8,20 +8,20 @@ Aspiring web developer, former youtuber with 7000+ subscribers & 1M+ views, ocas
 - 💜 [Portfolio Website](https://slson.netlify.app).
 - 📫 Reach me via silson0077@gmail.com
 
-## 🌙 Recent Projects
+### 🌙 Recent Projects
 - 🗺 [Mapsi](https://mapsi.netlify.app)
 - 🎬 [Movsi](https://movsi.netlify.app)
 
-## ⚡ I am proficient at 
-![skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,git&theme=dark)
+### ⚡ Proficient in 
+![skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,git&theme=dark)
 
-## ✨ I am familiar with 
+### 📖 Currently learning
+![skills](https://skillicons.dev/icons?i=redux,nextjs&theme=dark)
+
+### ✨ Familiar with 
 ![skills](https://skillicons.dev/icons?i=c,cpp,py&theme=dark)
 
-## 📖 Currently learning
-![skills](https://skillicons.dev/icons?i=react,redux&theme=dark)
-
-## 📈 Stats
+### 📈 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sls0n&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sls0n&theme=dark&hide_border=true)<br/>
