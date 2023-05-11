@@ -9,14 +9,15 @@ Aspiring web developer, former youtuber with 7000+ subscribers & 1M+ views, ocas
 - 📫 Reach me via silson0077@gmail.com
 
 ### 🌙 Recent Projects
+- ⛵ [Serenscape](https://serenscape.netlify.app)
 - 🗺 [Mapsi](https://mapsi.netlify.app)
 - 🎬 [Movsi](https://movsi.netlify.app)
 
 ### ⚡ Languages & tools 
-![skills](https://skillicons.dev/icons?i=html,css,js,react,redux,sass,tailwind,styledcomponents,firebase,vite,git&theme=dark)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,tailwind,styledcomponents,firebase,vite,git&theme=dark)
 
 ### 📖 Currently learning
-![skills](https://skillicons.dev/icons?i=ts,nextjs&theme=dark)
+![skills](https://skillicons.dev/icons?i=nextjs,astro,jest&theme=dark)
 
 ### ✨ Familiar with 
 ![skills](https://skillicons.dev/icons?i=c,cpp,py&theme=dark)
