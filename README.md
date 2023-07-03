@@ -14,10 +14,10 @@ Aspiring web developer, former youtuber with 7000+ subscribers & 1M+ views, ocas
 - 🎬 [Movsi](https://movsi.netlify.app)
 
 ### ⚡ Languages & tools 
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind,styledcomponents,firebase,supabase,vite,git&theme=dark)
+![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,react,redux,nextjs,prisma,tailwind,firebase,supabase,vite,git&theme=dark)
 
 ### 📖 Currently learning
-![skills](https://skillicons.dev/icons?i=astro,prisma&theme=dark)
+![skills](https://skillicons.dev/icons?i=astro&theme=dark)
 
 ### ✨ Familiar with 
 ![skills](https://skillicons.dev/icons?i=c,cpp,py&theme=dark)
