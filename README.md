@@ -5,7 +5,7 @@
 Frontend dev, CS student, former youtuber with 7000+ subscribers & 1M+ views, ocassional music producer.
 
 ### 🌙 Recent Projects
-- 🔮 [Prismify](https://prismiyyfy.vercel.app) (Work in progress ⚠)
+- 🔮 [Prismify](https://prismify.vercel.app) (Work in progress ⚠)
 - ⛵ [Serenscape](https://serenscape.netlify.app)
 - 🗺 [Mapsi](https://mapsi.netlify.app)
 - 🎬 [Movsi](https://movsi.netlify.app)
