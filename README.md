@@ -7,9 +7,10 @@ Frontend dev, CS student, former youtuber with 7000+ subscribers & 1M+ views, oc
 ### 🌙 Recent Projects
 - 🔮 [Prismify](https://prismify.vercel.app) (Work in progress ⚠)
 - ⛵ [Serenscape](https://serenscape.netlify.app)
+- 📌 [TripOptima](https://tripoptima.netlify.app/)
 - 🗺 [Mapsi](https://mapsi.netlify.app)
 - 🎬 [Movsi](https://movsi.netlify.app)
-- 📌 [TripOptima](https://tripoptima.netlify.app/)
+
 
 ### ⚡ Languages & tools 
 ![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,react,redux,nextjs,prisma,tailwind,firebase,supabase,apollo,git&theme=dark)
