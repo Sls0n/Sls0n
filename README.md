@@ -13,7 +13,7 @@ Frontend dev, CS student, former youtuber with 7000+ subscribers & 1M+ views, oc
 
 
 ### ⚡ Languages & tools 
-![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,react,redux,nextjs,prisma,tailwind,firebase,supabase,apollo,git&theme=dark)
+![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,react,redux,nextjs,astro,prisma,tailwind,firebase,supabase,apollo,git&theme=dark)
 
 ### 📖 Currently learning
 ![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)
