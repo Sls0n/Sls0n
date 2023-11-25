@@ -2,10 +2,10 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/xsls0n_007) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/xsls0n)
 
-Frontend dev, CS student, former youtuber with 7000+ subscribers & 1M+ views, ocassional music producer.
+Frontend dev, CS student, former youtuber with 7000+ subscribers & 1M+ views, occasional music producer.
 
 ### 🌙 Recent Projects
-- 🔮 [Prismify](https://prismify.vercel.app) (Work in progress ⚠)
+- 🔮 [Prismify](https://prismify.vercel.app)
 - ⛵ [Serenscape](https://serenscape.netlify.app)
 - 📌 [TripOptima](https://tripoptima.netlify.app/)
 - 🗺 [Mapsi](https://mapsi.netlify.app)
