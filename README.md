@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/xsls0n_007) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/xsls0n)
 
-Frontend dev, CS student, former youtuber with 7000+ subscribers & 1M+ views, occasional music producer.
+Fullstack developer(Frontend heavy), CS student, former youtuber with 7000+ subscribers & 1M+ views, occasional music producer.
 
 ### 🌙 Recent Projects
 - 🔮 [Prismify](https://prismify.vercel.app)
@@ -13,10 +13,10 @@ Frontend dev, CS student, former youtuber with 7000+ subscribers & 1M+ views, oc
 
 
 ### ⚡ Languages & tools 
-![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,react,nodejs,nextjs,astro,redux,prisma,tailwind,firebase,supabase,apollo,git&theme=dark)
+![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,react,nodejs,express,nextjs,astro,redux,prisma,tailwind,firebase,supabase,apollo,git&theme=dark)
 
 ### 📖 Currently learning
-![skills](https://skillicons.dev/icons?i=express,postgres&theme=dark)
+![skills](https://skillicons.dev/icons?i=postgres&theme=dark)
 
 ### ✨ Familiar with 
 ![skills](https://skillicons.dev/icons?i=c,cpp,py&theme=dark)
