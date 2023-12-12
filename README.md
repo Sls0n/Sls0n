@@ -21,10 +21,3 @@ Fullstack developer (Frontend heavy), CS student, former youtuber with 7000+ sub
 ### ✨ Familiar with 
 ![skills](https://skillicons.dev/icons?i=c,cpp,py&theme=dark)
 
-### 📈 Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sls0n&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sls0n&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sls0n&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
-[![](https://visitcount.itsvg.in/api?id=sls0n&icon=5&color=12)](https://visitcount.itsvg.in)
-
