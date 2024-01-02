@@ -5,9 +5,9 @@
 Fullstack developer (Frontend heavy), CS student, former youtuber with 7000+ subscribers & 1M+ views, occasional music producer.
 
 ### 🌙 Recent Projects
-- 🔮 [Prismify](https://prismify.vercel.app)
+- 🔮 [Prismify](https://prismify.vercel.app) _(2nd runner-up TFS hackathon)_
 - ⛵ [Serenscape](https://serenscape.netlify.app)
-- 📌 [TripOptima](https://tripoptima.netlify.app/)
+- 📌 [TripOptima](https://tripoptima.netlify.app/) _(Winning project of OpenStreetMap hackathon 2023, Chitwan)_
 - 🗺 [Mapsi](https://mapsi.netlify.app)
 - 🎬 [Movsi](https://movsi.netlify.app)
 
