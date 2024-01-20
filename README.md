@@ -15,9 +15,6 @@ Fullstack developer (Frontend heavy), CS student, former youtuber with 7000+ sub
 ### ⚡ Languages & tools 
 ![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,react,nodejs,express,nextjs,astro,redux,prisma,mongodb,tailwind,firebase,supabase,apollo,git&theme=dark)
 
-### 📖 Currently learning
-![skills](https://skillicons.dev/icons?i=postgres&theme=dark)
-
 ### ✨ Familiar with 
 ![skills](https://skillicons.dev/icons?i=c,cpp,py&theme=dark)
 
