@@ -8,8 +8,8 @@ Fullstack developer (Frontend heavy), CS student, former youtuber with 7000+ sub
 - 🔮 [Prismify](https://prismify.vercel.app) _(2nd runner-up TheFullStack Network hackathon)_
 - ⛵ [Serenscape](https://serenscape.netlify.app)
 - 📌 [TripOptima](https://tripoptima.netlify.app/) _(Winning project of OpenStreetMap hackathon 2023, Chitwan)_
-- 🗺 [Mapsi](https://mapsi.netlify.app)
 - 🎬 [Movsi](https://movsi.netlify.app)
+
 
 
 ### ⚡ Languages & tools 
