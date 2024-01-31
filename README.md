@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Silson</h1>
 
-Fullstack developer (Frontend heavy), CS student, former youtuber with 7000+ subscribers & 1M+ views, occasional music producer.
+Frontend dev, CS student, former youtuber with 7000+ subscribers & 1M+ views, occasional music producer.
 
 ### 🌙 Recent Projects
 - 🔮 [Prismify](https://prismify.vercel.app) _(2nd runner-up TheFullStack Network hackathon)_
